@@ -1,5 +1,5 @@
 import "@fkui/icon-lib-default/dist/f";
-import "@fkui/custom-partner-design";
+import "@fkui/user-lib-design";
 import "./main.scss";
 
 import {

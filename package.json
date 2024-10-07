@@ -1,5 +1,5 @@
 {
-  "name": "custom-partner-app",
+  "name": "designsystem-user-app",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -10,7 +10,7 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
-    "@fkui/custom-partner-design": "^1.0.1"
+    "@fkui/user-lib-design": "^1.1.0"
   },
   "devDependencies": {
     "@fkui/css-variables": "^5.37.0",
